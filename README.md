@@ -131,7 +131,7 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   node -v
   ```
-If not installed then [download](https://nodejs.org/en) and install.
+If it is not installed, [download](https://nodejs.org/en) and install it.
 
 ### Installation
 
