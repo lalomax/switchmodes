@@ -30,9 +30,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <!-- 
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+    <img src="images/logo.png" alt="Logo" width="80" height="80"> 
   </a>
+  -->
 
   <h3 align="center">Dark - Light mode Switcher</h3>
 
@@ -125,11 +127,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Check if Node.js is installed
   ```sh
-  npm install npm@latest -g
+  node -v
   ```
+If not installed then [download](https://nodejs.org/en) and install.
 
 ### Installation
 
