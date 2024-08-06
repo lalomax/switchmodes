@@ -156,14 +156,10 @@ If it is not installed, [download](https://nodejs.org/en) and install it.
 ## Roadmap
 
 - [x] Add Changelog
-- [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+See the [open issues](https://github.com/lalomax/switchmodes/issues) for a full list of proposed features (and known issues).
 
 
 
@@ -190,16 +186,13 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/lalomax/switchmodes](https://github.com/lalomax/switchmodes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
